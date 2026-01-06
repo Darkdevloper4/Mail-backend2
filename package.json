@@ -1,7 +1,6 @@
 {
   "name": "mail-backend",
-  "version": "1.0.0",
-  "type": "module",
+  "version": "1.0.0", 
   "main": "src/server.js",
   "scripts": {
     "start": "node src/server.js"
